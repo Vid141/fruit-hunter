@@ -1,1 +1,2 @@
-# fruit-hunter
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
